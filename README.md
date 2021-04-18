@@ -16,6 +16,6 @@ ARIMA Forecasting
     d = number of times that the raw observations are differences (degree of differencing)
     q = size of moving average window (order of moving average)
 
-# Note, ARMA is an ARIMA model with the d parameter set to 0
+* Note, ARMA is an ARIMA model with the d parameter set to 0
 
 We will use Grid Search for hyperparameter tuning, to select optimal values of p, d, and q using the Root Mean Squared Error (RMSE) as the error statistic.
