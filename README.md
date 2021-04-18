@@ -19,3 +19,5 @@ ARIMA Forecasting
 * Note, ARMA is an ARIMA model with the d parameter set to 0
 
 We will use Grid Search for hyperparameter tuning, to select optimal values of p, d, and q using the Root Mean Squared Error (RMSE) as the error statistic.
+
+Technologies Used: Pandas, Sci-kit Learn, Numpy, Matplotlib, statsmodels.
