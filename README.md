@@ -1,9 +1,10 @@
 # Predicting-COVID-19-Hospitalizations
-Predicting COVID-19 Hospitalizations
+
 
 The purpose of this project is to predict the daily hospitalizations in Arizona from 3/8/21 - 3/14/21
 
 Training data: https://covidtracking.com/
+
 Testing data: https://www.azdhs.gov/covid19/data/index.php#hospitalization
 
 
